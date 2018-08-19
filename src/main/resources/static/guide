@@ -1,0 +1,30 @@
+Spring boot security
+https://dzone.com/articles/spring-security-in-mvc-4-using-spring-boot
+https://www.dineshonjava.com/spring-security-tutorial-using-spring-boot/
+https://springframework.guru/spring-boot-web-application-part-5-spring-security/
+
+error
+
+"table spring session does not exist"
+https://www.journaldev.com/21748/spring-session-management-spring-session-jdbc
+https://sivalabs.in/2018/02/session-management-using-spring-session-jdbc-datastore/
+
+There is no PasswordEncoder mapped for the id "null"
+---https://stackoverflow.com/questions/46999940/spring-boot-passwordencoder-error
+
+
+Entitymanager
+http://www.waitingforcode.com/hibernate/difference-between-sessionfactory-and-entitymanagerfactory/read
+
+
+@Transactional and configure
+http://www.codingpedia.org/jhadesdev/how-does-spring-transactional-really-work/
+
+
+adding static resources
+
+http://www.springboottutorial.com/spring-boot-with-static-content-css-and-javascript-js
+
+
+session time
+https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
